@@ -3,7 +3,8 @@
 🌍 **Location:** Birmingham  
 
 
-🎓 I'm an **MSc. Data Science and Computational Intelligence** graduate from Coventry University with a foundational background in **Computer Engineering** from Kuban State University of Technology, Russia. My journey as a **Vendor Data Analyst** at Nigeria LNG Limited has equipped me with the expertise to translate intricate data into significant, actionable insights, leading to operational efficiencies.
+🎓 I'm an **MSc. Data Science and Computational Intelligence** graduate from Coventry University, UK with a foundational background in **Computer Engineering** from Kuban State University of Technology, Russia. My journey as a **Vendor Data Analyst** at Nigeria LNG Limited has equipped me with the expertise to translate intricate data into significant, actionable insights, leading to operational efficiencies.
+
 
 🛠 **Skills & Expertise:**  
 - 📊 **Data Analysis & Predictive Modelling:** Time Series, Statistical Analysis using Python & R
@@ -13,11 +14,15 @@
   
 - 📉 **Data Visualization:** Tools such as Seaborn, Matplotlib, Tableau, and Power BI   
 
+
 🏆 **Achievements:** Streamlined vendor processes with Tableau, leading to a 35% reduction in report generation time and annual savings of over $500,000 through efficient vendor selection at Nigeria LNG Limited.
+
 
 📖 **Hobbies:** Avid learner in computing & scientific studies, passionate about logistics & supply chain optimization, and a regular consumer of technical blogs & documentaries on global trade dynamics.
 
+
 🗣️ **Languages:** Fluent in English and Russian
+
 
 🔗 **Professional Memberships:** Royal Statistical Society, British Computer Society
 <h3 align="center"></h3>
