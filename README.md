@@ -1,3 +1,8 @@
+<h3 align="center"></h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinktay&label=Profile%20views&color=0e75b6&style=flat" alt="martinktay" /> </p>
+
+<p align="left"> <a href="https://twitter.com/martintayy" target="blank"><img src="https://img.shields.io/twitter/follow/martintayy?logo=twitter&style=for-the-badge" alt="martintayy" /></a> </p>
 👋 **Hello, I'm Martin Tay!**
 
 🌍 **Location:** Birmingham  
@@ -25,11 +30,7 @@
 
 
 🔗 **Professional Memberships:** Royal Statistical Society, British Computer Society
-<h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinktay&label=Profile%20views&color=0e75b6&style=flat" alt="martinktay" /> </p>
-
-<p align="left"> <a href="https://twitter.com/martintayy" target="blank"><img src="https://img.shields.io/twitter/follow/martintayy?logo=twitter&style=for-the-badge" alt="martintayy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
