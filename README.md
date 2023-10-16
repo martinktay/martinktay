@@ -1,9 +1,9 @@
-<h3 align="center">Welcome to My GitHub Profile</h3>
+<h3 align="center">Harnessing Data for Actionable Insights</h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=martinktay&label=Profile%20views&color=0e75b6&style=flat" alt="martinktay" /> </p> 
 
-👋 Hello, I am Martin Tay, a **Data Science and Computational Intelligence** enthusiast with a solid background in **Computer Engineering**. With a passion for transforming complex datasets into actionable
+👋 Hello, I am Martin Tay, a **Data Scientist** with a solid background in **Computer Engineering**. With a passion for transforming complex datasets into actionable
 insights. I have hands-on experience in vendor and workforce data analysis and business intelligence. I am adept at extracting information from unstructured sources using advanced techniques like regular expressions
 , and I have a track record of ensuring data quality, integrity, and consistency. My tool kit includes Python, R, SQL, and an array of visualisation tools like Tableau and Power BI.
 
