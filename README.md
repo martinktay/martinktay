@@ -25,7 +25,7 @@ Beyond the technical, I'm an advocate for data ethics and governance. I'm always
 
 
 
-📖 **Hobbies:** Avid learner in computing & scientific studies, passionate about logistics & supply chain optimization, and a regular consumer of technical blogs & documentaries on global trade dynamics.
+📖 **Hobbies:** Avid learner in computing & scientific studies, passionate about fraud detection, darkweb monitoring, sustainable farming with tech, logistics & supply chain optimization, and a regular consumer of technical blogs & documentaries on global trade dynamics.
 
 
 🗣️ **Languages:** Fluent in English and Russian
