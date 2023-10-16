@@ -3,9 +3,13 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=martinktay&label=Profile%20views&color=0e75b6&style=flat" alt="martinktay" /> </p> 
 
-👋 Hello, I am Martin Tay, an **MSc. Data Science and Computational Intelligence** graduate from Coventry University, UK with a foundational background in **Computer Engineering** from Kuban State University of Technology, Russia. My journey as a **Vendor Data Analyst** at Nigeria LNG Limited has equipped me with the expertise to translate intricate data into significant, actionable insights, leading to operational efficiencies.
+👋 Hello, I am Martin Tay, a **Data Science and Computational Intelligence** enthusiast with a solid background in **Computer Engineering**. With a passion for transforming complex datasets into actionable
+insights. I have hands-on experience in vendor and workforce data analysis and business intelligence. I am adept at extracting information from unstructured sources using advanced techniques like regular expressions
+, and I have a track record of ensuring data quality, integrity, and consistency. My tool kit includes Python, R, SQL, and an array of visualisation tools like Tableau and Power BI.
 
+During my stint as a Vendor Data Analyst at Nigeria LNG Limited, I harnessed the power of data visualization to streamline processes, optimize vendor relations, and drive strategic decision-making. My academic journey at Coventry University equipped me with a profound understanding of machine learning, NLP, and big data tools, which I've applied to real-world challenges.
 
+Beyond the numbers, I'm committed to data ethics and governance and am always eager to collaborate on projects that harness data for the greater good. Dive into my repositories to see my work, and let's connect to explore how we can innovate together!
 
 
 
