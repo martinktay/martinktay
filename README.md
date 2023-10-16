@@ -6,14 +6,11 @@
 🎓 I'm an **MSc. Data Science and Computational Intelligence** graduate from Coventry University with a foundational background in **Computer Engineering** from Kuban State University of Technology, Russia. My journey as a **Vendor Data Analyst** at Nigeria LNG Limited has equipped me with the expertise to translate intricate data into significant, actionable insights, leading to operational efficiencies.
 
 🛠 **Skills & Expertise:**  
-- 📊 **Data Analysis & Predictive Modelling:** Time Series, Statistical Analysis using Python & R  
-- 💾 **Programming & Database:** SQL, NoSQL, PostgreSQL  
-- 🤖 **Machine Learning & NLP:** Natural Language Processing, Feature Engineering, and Selection  
-- 📉 **Data Visualization:** Tools such as Seaborn, Matplotlib, Tableau, and Power BI  
-- 🌐 **Big Data & Web Tools:** Hadoop, Apache Spark, Web Scraping (BeautifulSoup, Scrapy)  
-- 🤝 **Soft Skills:** Problem-solving, stakeholder engagement, communication, time management  
-- 🛡 **Ethics & Governance:** Dedicated to Data Ethics, Governance, and transparent presentation  
-- 🖥️ **Technologies:** Python, R, SQL, PostgreSQL, Excel, SAP, Anaconda, RStudio, MATLAB, Git, Linux (Ubuntu)  
+- 📊 **Data Analysis & Predictive Modelling:** Time Series, Statistical Analysis using Python & R
+- 
+- 🤖 **Machine Learning & NLP:** Natural Language Processing, Feature Engineering, and Selection
+  
+- 📉 **Data Visualization:** Tools such as Seaborn, Matplotlib, Tableau, and Power BI   
 
 🏆 **Achievements:** Streamlined vendor processes with Tableau, leading to a 35% reduction in report generation time and annual savings of over $500,000 through efficient vendor selection at Nigeria LNG Limited.
 
