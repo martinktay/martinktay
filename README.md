@@ -3,13 +3,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=martinktay&label=Profile%20views&color=0e75b6&style=flat" alt="martinktay" /> </p> 
 
-👋 Hello, I am Martin Tay, a **Data Scientist** with a solid background in **Computer Engineering**. With a passion for transforming complex datasets into actionable
-insights. I have hands-on experience in vendor and workforce data analysis and business intelligence. I am adept at extracting information from unstructured sources using advanced techniques like regular expressions
-, and I have a track record of ensuring data quality, integrity, and consistency. My tool kit includes Python, R, SQL, and an array of visualisation tools like Tableau and Power BI.
+👋 Hello, I am Martin Tay, a **Data Scientist** with a solid background in **Computer Engineering**. I specialize in transforming complex datasets into clear, actionable insights. My experience spans vendor and workforce data analysis, business intelligence, and ensuring data quality, integrity, and consistency. With a toolkit that includes Python, R, SQL, Tableau, and Power BI, I'm adept at extracting information from unstructured sources using techniques like regular expressions.
 
-During my stint as a Vendor Data Analyst at Nigeria LNG Limited, I harnessed the power of data visualization to streamline processes, optimize vendor relations, and drive strategic decision-making. My academic journey at Coventry University equipped me with a profound understanding of machine learning, NLP, and big data tools, which I've applied to real-world challenges.
+At Nigeria LNG Limited, I leveraged data visualization to optimize vendor processes, achieving a 35% reduction in report generation time and significant cost savings. My academic pursuits at Coventry University deepened my expertise in machine learning, NLP, and big data applications.
 
-Beyond the numbers, I'm committed to data ethics and governance and am always eager to collaborate on projects that harness data for the greater good. Dive into my repositories to see my work, and let's connect to explore how we can innovate together!
+Beyond the technical, I'm an advocate for data ethics and governance. I'm always on the lookout for collaborative projects that leverage data for positive impact. Explore my repositories, and let's innovate together!
 
 
 
