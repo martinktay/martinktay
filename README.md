@@ -12,13 +12,11 @@ Beyond the technical, I'm an advocate for data ethics and governance. I'm always
 
 
 🛠 **Skills & Expertise:**  
-- 📊 **Data Analysis & Predictive Modelling:** Time Series, Statistical Analysis using Python & R
+- 📊 **Data Analysis & Predictive Modelling:** Time Series, Linear Regression, Statistical Analysis using Python & R
   
 - 🤖 **Machine Learning & NLP:** Natural Language Processing, Feature Engineering, and Selection
-  
-  
+   
 - 📉 **Data Visualization:** Tools such as Seaborn, Matplotlib, Tableau, and Power BI   
-
 
 
 🏆 **Achievements:** Streamlined vendor processes with Tableau, leading to a 35% reduction in report generation time and annual savings of over $500,000 through efficient vendor selection at Nigeria LNG Limited.
