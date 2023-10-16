@@ -1,7 +1,7 @@
 <h3 align="center"></h3>
 <p align="left"> <a href="https://twitter.com/martintayy" target="blank"><img src="https://img.shields.io/twitter/follow/martintayy?logo=twitter&style=for-the-badge" alt="martintayy" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinktay&label=Profile%20views&color=0e75b6&style=flat" alt="martinktay" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=martinktay&label=Profile%20views&color=0e75b6&style=flat" alt="martinktay" /> </p>
 
 
 👋 Hello, I am Martin Tay, an **MSc. Data Science and Computational Intelligence** graduate from Coventry University, UK with a foundational background in **Computer Engineering** from Kuban State University of Technology, Russia. My journey as a **Vendor Data Analyst** at Nigeria LNG Limited has equipped me with the expertise to translate intricate data into significant, actionable insights, leading to operational efficiencies.
