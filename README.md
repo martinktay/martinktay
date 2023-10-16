@@ -1,14 +1,15 @@
 👋 **Hello, I'm Martin Tay!**
 
-🌍 **Location:** B20, Birmingham  
-📞 **Contact:** 0 7733 443295 | 📧 martin.k.tay@hotmail.com
+🌍 **Location:** Birmingham  
+
 
 🎓 I'm an **MSc. Data Science and Computational Intelligence** graduate from Coventry University with a foundational background in **Computer Engineering** from Kuban State University of Technology, Russia. My journey as a **Vendor Data Analyst** at Nigeria LNG Limited has equipped me with the expertise to translate intricate data into significant, actionable insights, leading to operational efficiencies.
 
 🛠 **Skills & Expertise:**  
 - 📊 **Data Analysis & Predictive Modelling:** Time Series, Statistical Analysis using Python & R
-- 
+  
 - 🤖 **Machine Learning & NLP:** Natural Language Processing, Feature Engineering, and Selection
+  
   
 - 📉 **Data Visualization:** Tools such as Seaborn, Matplotlib, Tableau, and Power BI   
 
