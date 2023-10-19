@@ -13,7 +13,8 @@ Beyond the technical, I'm an advocate for data ethics and governance. I'm always
 <h2>👨‍💻 ML Projects:</h2>
 - <b>Bibliometric Network Analysis and Topic Modelling</b>
   - [Bibliometric Network Analysis and Topic Modelling](https://github.com/martintayy/britishairlinereview)
-
+- <b>British Airways Data Science Virtual Experience Programme (Forage)</b>
+  - [Web Scraping to Gain Company Insights and Predicting Consumer Buying Behavior](https://github.com/martintayy/britishairlinereview)
 
 🛠 **Skills & Expertise:**  
 - 📊 **Data Analysis & Predictive Modelling:** Time Series, Linear Regression, Statistical Analysis using Python & R
