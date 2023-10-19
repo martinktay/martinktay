@@ -10,6 +10,17 @@ At Nigeria LNG Limited, I leveraged data visualization to optimize vendor proces
 Beyond the technical, I'm an advocate for data ethics and governance. I'm always on the lookout for collaborative projects that leverage data for positive impact. Explore my repositories, and let's innovate together!
 
 
+<h2>👨‍💻 ML Projects:</h2>
+
+- <b>British Airways Data Science Virtual Experience Programme (Forage)</b>
+  - [Web Scraping to Gain Company Insights and Predicting Consumer Buying Behavior](https://github.com/martintayy/britishairlinereview)
+- <b>Hospital Readmission of Diabetic Patients</b>
+  - [Hospital Readmission of Diabetic Patients after 30 Days using DT, RF, LR, SVM, MLP Classifiers](https://github.com/martintayy/HospitalReadmission)
+- <b>Vertical Search Engine</b>
+  - [Design and Implementation of Web Crawler and Clustering with K-Means](https://github.com/martintayy/VerticalSearchEngine)
+- <b>Prediction of Cardiovascular Disease with Classification Algorithms</b>
+  - [Heart Disease Prediction with DT, SVM, Logistic Regression](https://github.com/martintayy/prediction-of-cardiovascular-disease)
+
 
 🛠 **Skills & Expertise:**  
 - 📊 **Data Analysis & Predictive Modelling:** Time Series, Linear Regression, Statistical Analysis using Python & R
