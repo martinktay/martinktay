@@ -15,10 +15,11 @@ Beyond the technical, I'm an advocate for data ethics and governance. I'm always
 
 
 🛠 **Skills & Expertise:**  
-- 📊 **Data Analysis & Predictive Modelling:** Time Series, Linear Regression, Statistical Analysis using Python & R
-  
+
 - 🤖 **Machine Learning & NLP:** Natural Language Processing, Feature Engineering, and Selection
-   
+  
+- 📊 **Data Analysis & Predictive Modelling:** Time Series, Linear Regression, Statistical Analysis using Python & R
+     
 - 📉 **Data Visualization:** Tools such as Seaborn, Matplotlib, Tableau, and Power BI   
 
 
