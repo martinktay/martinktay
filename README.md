@@ -11,7 +11,7 @@ Beyond the technical, I'm an advocate for data ethics and governance. I'm always
 
 
 👨‍💻**ML Projects:**
-- [Bibliometric Network Analysis and Topic Modelling](https://github.com/martintayy/britishairlinereview)
+- [Bibliometric Network Analysis and Topic Modelling]((https://github.com/martinktay/martinktay)
 
 
 🛠 **Skills & Expertise:**  
