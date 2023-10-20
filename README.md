@@ -1,4 +1,4 @@
-<h3 align="center">Harnessing Data for Actionable Insights</h3>
+<h3 align="center">Harnessing Data for Actionable Insights and Decision-making</h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=martinktay&label=Profile%20views&color=0e75b6&style=flat" alt="martinktay" /> </p> 
