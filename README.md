@@ -5,7 +5,7 @@
 
 👋 Hello, I am Martin Tay, a **Data Scientist** with a solid background in **Computer Engineering**. I specialise in transforming complex datasets into clear, actionable insights. My experience spans vendor and workforce data analysis, business intelligence, and ensuring data quality, integrity, and consistency. With a toolkit that includes Python, R, SQL, Tableau, and Power BI, I'm adept at extracting information from unstructured sources using techniques like regular expressions.
 
-At Nigeria LNG Limited, I leveraged data visualization to optimize vendor processes, achieving a 35% reduction in report generation time and significant cost savings. My academic pursuits at Coventry University deepened my expertise in machine learning, NLP, and big data applications.
+At Nigeria LNG Limited, I leveraged data visualisation to optimize vendor processes, achieving a 35% reduction in report generation time and significant cost savings. My academic pursuits at Coventry University deepened my expertise in machine learning, NLP, and big data applications.
 
 Beyond the technical, I'm an advocate for data ethics and governance. I'm always on the lookout for collaborative projects that leverage data for positive impact. Explore my repositories, and let's innovate together!
 
@@ -20,7 +20,7 @@ Beyond the technical, I'm an advocate for data ethics and governance. I'm always
   
 - 📊 **Data Analysis & Predictive Modelling:** Time Series, Linear Regression, Statistical Analysis using Python & R
      
-- 📉 **Data Visualization:** Tools such as Seaborn, Matplotlib, Tableau, and Power BI   
+- 📉 **Data Visualisation:** Tools such as Seaborn, Matplotlib, Tableau, and Power BI   
 
 
 🏆 **Achievements:** Streamlined vendor processes with Tableau, leading to a 35% reduction in report generation time and annual savings of over $500,000 through efficient vendor selection at Nigeria LNG Limited.
