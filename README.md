@@ -23,7 +23,7 @@ Beyond the technical, I'm an advocate for data ethics and governance. I'm always
 - 📉 **Data Visualisation:** Tools such as Seaborn, Matplotlib, Tableau, and Power BI   
 
 
-🏆 **Achievements:** Streamlined vendor processes with Tableau, leading to a 35% reduction in report generation time and annual savings of over $500,000 through efficient vendor selection at Nigeria LNG Limited.
+🏆 **Achievements:** Streamlined vendor processes with Tableau, leading to a 20% reduction in report generation time and annual savings of over $300,000 through efficient vendor selection at Nigeria LNG Limited.
 
 
 
