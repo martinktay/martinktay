@@ -7,11 +7,7 @@
 
 At Nigeria LNG Limited, I leveraged data visualisation to optimize vendor processes, achieving a 35% reduction in report generation time and significant cost savings. My academic pursuits at Coventry University deepened my expertise in machine learning, NLP, and big data applications.
 
-Beyond the technical, I'm an advocate for data ethics and governance. I'm always on the lookout for collaborative projects that leverage data for positive impact. Explore my repositories, and let's innovate together!
-
-
-👨‍💻**ML Projects:**
-- [Unraveling Academic Dynamics: Co-authorship Networks and Dominant Themes in Bibliometric Data](https://github.com/martinktay/martinktay)
+Beyond the technical, I'm an advocate for data ethics, governance, and reduction of Greenhouse Gas(GHG) emissions. I'm always on the lookout for collaborative projects that leverage data for positive impact. Explore my repositories, and let's innovate together!
 
 
 🛠 **Skills & Expertise:**  
