@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Martin Tay  
 ![Profile Views](https://komarev.com/ghpvc/?username=martin-tay&label=Profile%20views&color=0e75b6&style=flat)
 
-🎯 **Data Scientist & Data Engineer** | ⚡ Energy-Tech | ☁️ Azure • AWS • GCP | 🧠 Generative AI | 🛠️ MLOps, Databricks & Docker
+🎯 **Data Scientist & Data Engineer**  
+⚡ Energy | 💼 Finance | 🏥 Health & Industrial Systems  
+☁️ Azure • AWS • GCP | 🧠 Generative AI | 🛠️ MLOps, Databricks & Docker
 
 ---
 
