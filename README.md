@@ -1,57 +1,62 @@
 # 👋 Hi, I’m Martin Tay  
 ![Profile Views](https://komarev.com/ghpvc/?username=martin-tay&label=Profile%20views&color=0e75b6&style=flat)
 
-🎯 **Data Scientist & Data Engineer**  
-⚡ Energy | 💼 Finance | 🏥 Health & Industrial Systems  
-☁️ Azure • AWS • GCP | 🧠 Generative AI | 🛠️ MLOps, Databricks & Docker
+🎯 **Data Engineer & Data Scientist**  
+⚡ Energy | 💼 Finance | 🧾 Retail & Compliance | 📊 BI & APIs  
+☁️ Azure • AWS • GCP | 🧠 GenAI & LLMs | 🛠️ FastAPI, Databricks, Docker
 
 ---
 
-Welcome! I’m a results-oriented **Data Scientist and Data Engineer** with over 5 years of experience building scalable data platforms and machine learning solutions across **Azure**, **AWS**, and **GCP**.
+Welcome! I'm a results-oriented **Data Engineer and Data Scientist** with 5+ years’ experience building cloud-native data and machine learning pipelines across **Azure**, **AWS**, and **Databricks**.
 
-At **10Alytics**, I deliver full-lifecycle data and AI solutions—combining deep statistical modelling, cloud-native pipelines, and GenAI development. I'm passionate about creating real-time, production-ready AI systems that drive tangible outcomes for business users.
+I design and deploy scalable **Python-based RESTful APIs**, real-time ETL frameworks, and **LLM-integrated automation tools**. From unstructured text and financial records to industrial sensor data, I specialise in transforming complex data into clean, actionable insights that fuel dashboards, reports, and smart applications.
+
+At **10Alytics**, I lead dual-role delivery—merging engineering rigour with statistical modelling and GenAI to serve energy, finance, and BI clients across the UK and beyond.
 
 ---
 
 ## 🚀 What I Do
 
-- 🔄 **ML & MLOps Lifecycle** – Model development, deployment, monitoring, and retraining using Azure ML, AWS SageMaker, and GCP Vertex AI  
-- 🔧 **Data Engineering & Platform Development** – ELT pipelines with Databricks, Airflow, Delta Lake, Snowflake, and Azure Data Factory  
-- 📈 **Forecasting & Anomaly Detection** – LSTM, ARIMA, TabNet, and PyTorch-based autoencoders for operational insights  
-- 🧠 **Generative AI & LLMs** – Prompt engineering, fine-tuning, and orchestration with LangChain, OpenAI, and Hugging Face  
-- 🐳 **Containerisation & DevOps** – Workload deployment with Docker and Kubernetes; provisioning with Terraform  
-- 🌐 **Dashboards & Applications** – Deliver insights via Flask, Streamlit, Power BI, Looker, and modern web/mobile UIs  
+- 🔧 **Data Engineering** – Spark + Delta Lake + Databricks pipelines for structured & semi-structured sources  
+- 🔄 **APIs & Microservices** – Containerised RESTful APIs using Python, FastAPI, and Flask  
+- 🧠 **Machine Learning & GenAI** – Feature engineering, retraining pipelines, prompt-driven anomaly detection  
+- 🧾 **Financial & BI Reporting** – Real-time Power BI dashboards and alert systems with drill-down logic  
+- 🐳 **CI/CD & Deployment** – Dockerised ML workflows with GitLab CI, Terraform, Unity Catalog for governance  
+- 📈 **Visualisation & Storytelling** – Streamlit, Plotly, and Looker dashboards for stakeholder-facing use cases
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🛠️ Tech Stack (Snapshot)
 
-| **Category**       | **Technologies & Services**                                                                                          |
-|--------------------|------------------------------------------------------------------------------------------------------------------------|
-| **Languages**      | Python, R, SQL, PySpark, JavaScript (React, Vue.js, Angular), HTML5/CSS, Bash                                          |
-| **ML/Stats**       | scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch, TabNet, ARIMA, regression, time-series, anomaly detection        |
-| **GenAI**          | OpenAI API, Hugging Face Transformers, LangChain, prompt engineering, fine-tuning                                     |
-| **Azure**          | Azure ML, Data Factory, Synapse, Databricks, AKS, Blob Storage, Key Vault, Azure Monitor                              |
-| **AWS**            | SageMaker, Glue, Lambda, Redshift, S3, Athena, CloudWatch, CloudFormation                                              |
-| **GCP**            | BigQuery, Vertex AI, Pub/Sub, Cloud Functions, Dataflow, Looker                                                        |
-| **Data Platforms** | Snowflake, Delta Lake, Azure Synapse, Databricks, SSIS, Informatica                                                    |
-| **Orchestration**  | Apache Airflow, dbt-style transformations, event-driven pipelines                                                      |
-| **DevOps & Infra** | Docker, Kubernetes, Terraform, GitHub Actions, Azure DevOps, GitLab CI/CD                                              |
-| **BI & Visualisation** | Power BI, Looker, Streamlit, Plotly, Matplotlib, Seaborn                                                           |
-| **Collaboration**  | Agile delivery, stakeholder workshops, data product onboarding, peer mentorship                                        |
+| **Category**           | **Tools & Platforms**                                                                                                 |
+|------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Languages**          | Python, R, SQL, Bash, PySpark                                                                                          |
+| **Frameworks & APIs**  | Flask, FastAPI, REST, Streamlit, Microservices, OpenAPI                                                                 |
+| **ML & AI**            | scikit-learn, TensorFlow, PyTorch, GenAI, NLTK, LangChain, OpenAI, Prompt Engineering                                  |
+| **Cloud & Infra**      | Azure Databricks, ADF, Synapse, Unity Catalog, AWS Glue/Lambda/S3, GCP BigQuery                                        |
+| **Data & Orchestration** | Airflow, Delta Lake, Informatica DEI, dbt-style transformations                                                        |
+| **DevOps & CI/CD**     | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD                                                            |
+| **Visualisation & BI** | Power BI, Plotly, Matplotlib, Seaborn, SSRS, Looker                                                                    |
+| **Governance & Quality** | Great Expectations, GDPR, Audit Frameworks, Data Lineage Tools                                                        |
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Key Projects
 
-### 🔌 GB Power Market Forecasting  
-Designed a full Azure + Databricks pipeline that ingests real-time API feeds, performs Delta Lake transformations, and serves insights via Looker dashboards with 95% SLA compliance.
+### 🔌 **Real-Time Stock Analytics Pipeline**  
+Spark-driven pipeline on Azure Databricks with daily data from Alpha Vantage API → Delta Lake → Power BI dashboard for financial signal tracking.
 
-### 🤖 LLM Report Assistant *(in progress)*  
-GenAI-powered tool using LangChain and OpenAI to summarise trading reports and generate responses to domain-specific queries, reducing analyst prep time by 30%.
+### 🧾 **Credit Scoring Workflow**  
+Containerised ETL using Docker + FastAPI to process account-level scoring data → AWS S3. Automated testing and logging pipeline for QA transparency.
 
-### 🌐 Wind Energy Forecasting App  
-Flask-based forecasting application using XGBoost and temporal feature engineering, delivered through a mobile-friendly interactive dashboard.
+### 🧮 **Bank Transaction Warehouse**  
+Designed PostgreSQL warehouse with custom ETL for transactional and loan analytics. Supported multi-channel data ingestion from legacy systems.
+
+### 🎬 **Sentiment-as-a-Service for Movie Reviews**  
+Ingested reviews from public APIs → analysed sentiment using PySpark + NLTK → exposed via Dockerised FastAPI microservice and live Streamlit dashboard.
+
+### 🏪 **Scalable Retail API Pipeline**  
+Azure Blob + ADF + Airflow orchestration to stage retail sales data from REST API endpoints. Enabled ad hoc analytics via Databricks notebooks.
 
 ---
 
@@ -70,13 +75,13 @@ Flask-based forecasting application using XGBoost and temporal feature engineeri
 
 ## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/martin-k-tay/)
-- 📬 [Email](mailto:martin.k.tay@hotmail.com)
-- 🌐 [Portfolio/Website](https://yourdomain.com](https://github.com/martinktay/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/martin-k-tay/)  
+- 📬 [Email](mailto:martin.k.tay@hotmail.com)  
+- 🌐 [Portfolio](https://github.com/martinktay)
 
-> I’m open to collaborating on open-source tooling, GenAI platforms, and data infrastructure innovation.
+> Always open to collaboration in platform automation, AI-powered reporting, or GenAI deployments for data-first businesses.
 
 ---
 
-⭐ **Impact Snapshot:**  
-Delivered over **£250,000 in annual savings** through platform optimisation and automation. Deployed GenAI tools that cut business analysis turnaround time by over **30%**.
+⭐ **Quick Wins:**  
+Delivered over **£250,000 in annual savings** via automation and platform migration. Deployed REST-based ML workflows and GenAI validators that reduced analysis prep time by over **30%**.
