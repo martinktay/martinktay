@@ -7,7 +7,7 @@
 
 ---
 
-Welcome! I'm a results-oriented **Data Engineer and Data Scientist** with 5+ years’ experience building cloud-native data and machine learning pipelines across **Azure**, **AWS**, and **Databricks**.
+Welcome! I'm a results-oriented **Data Engineer and Data Scientist** with 5+ years’ experience building cloud-native data and machine learning pipelines across **Azure**, **AWS**, and **GCP**.
 
 I design and deploy scalable **Python-based RESTful APIs**, real-time ETL frameworks, and **LLM-integrated automation tools**. From unstructured text and financial records to industrial sensor data, I specialise in transforming complex data into clean, actionable insights that fuel dashboards, reports, and smart applications.
 
