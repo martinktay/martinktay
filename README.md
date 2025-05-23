@@ -28,44 +28,6 @@ Coventry University, UK | May 2022 – Jul 2023
 **BEng, Computer Engineering**  
 Kuban State Technological University, Russia | Sep 2007 – Jun 2012  
 
-**Certifications**  
-- AWS Data Engineer Associate (exam booked)  
-- AWS Solutions Architect Associate  
-- AWS Cloud Practitioner  
-- Microsoft Azure Fundamentals  
-
----
-
-# 👋 Hi, I’m Martin Tay  
-
-**Birmingham, UK** | 07733 443 295 | martin.k.tay@hotmail.com  
-[LinkedIn](https://www.linkedin.com/in/martin-k-tay/) • [GitHub](https://github.com/martinktay) • [Portfolio](https://martinktay.github.io)
-
----
-
-## 🎯 About Me
-I’m a results-oriented **Data Engineer & Data Scientist** with 5+ years’ experience building cloud-native data and ML pipelines across Azure, AWS & GCP. I thrive on turning complex datasets into clear, compelling stories that drive real-world impact—whether that’s forecasting customer lifetime value, reducing churn, or surfacing player behavior insights in subscription gaming. I design and deploy scalable Python-based APIs, real-time ETL frameworks, and LLM-driven automation tools that empower teams to make data-driven decisions.
-
----
-
-## 🚀 What I Do
-- **Data Engineering & ETL**: Spark + Delta Lake + Databricks, Airflow, Feast feature stores  
-- **APIs & Microservices**: Python (FastAPI, Flask), Docker, Kubernetes  
-- **Machine Learning & GenAI**: Prophet, XGBoost, scikit-learn, LangChain, prompt engineering  
-- **BI & Reporting**: Power BI, Tableau, Streamlit, Plotly  
-- **Cloud & Infrastructure**: Azure Databricks/ML, ADF, Synapse; AWS Lambda/Glue/S3/Redshift; GCP BigQuery/Vertex AI  
-- **MLOps & CI/CD**: GitLab CI/CD, Terraform, Docker, Great Expectations  
-- **Compliance & Governance**: GDPR, audit frameworks, metadata management  
-
----
-
-## 🎓 Education & Certifications
-
-**MSc, Data Science & Computational Intelligence**  
-Coventry University, UK | May 2022 – Jul 2023  
-
-**BEng, Computer Engineering**  
-Kuban State Technological University, Russia | Sep 2007 – Jun 2012  
 
 **Certifications**  
 - AWS Data Engineer Associate (exam booked)  
@@ -116,6 +78,3 @@ Engineered a time-series pipeline (78K+ records) to forecast hourly power output
 ## 🤝 Let’s Connect
 Always open to collaborations in platform automation, AI-powered reporting, or GenAI deployments for data-first businesses. Feel free to reach out!
 
-
-## 🤝 Let’s Connect
-Always open to collaborations in platform automation, AI-powered reporting, or GenAI deployments for data-first businesses. Feel free to reach out!
