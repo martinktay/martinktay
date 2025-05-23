@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Martin Tay  
 
-**Birmingham, UK** | 07733 443 295 | martin.k.tay@hotmail.com  
-[LinkedIn](https://www.linkedin.com/in/martin-k-tay/) • [GitHub](https://github.com/martinktay) • [Portfolio](https://martinktay.github.io)
+**Birmingham, UK** | 07733 443 295 | martin.k.tay@hotmail.com 
 
 ---
 
