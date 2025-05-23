@@ -1,87 +1,114 @@
 # 👋 Hi, I’m Martin Tay  
-![Profile Views](https://komarev.com/ghpvc/?username=martin-tay&label=Profile%20views&color=0e75b6&style=flat)
 
-🎯 **Data Engineer & Data Scientist**  
-⚡ Energy | 💼 Finance | 🧾 Retail & Compliance | 📊 BI & APIs  
-☁️ Azure • AWS • GCP | 🧠 GenAI & LLMs | 🛠️ FastAPI, Databricks, Docker
+**Birmingham, UK** | 07733 443 295 | martin.k.tay@hotmail.com  
+[LinkedIn](https://www.linkedin.com/in/martin-k-tay/) • [GitHub](https://github.com/martinktay) • [Portfolio](https://martinktay.github.io)
 
 ---
 
-Welcome! I'm a results-oriented **Data Engineer and Data Scientist** with 5+ years’ experience building cloud-native data and machine learning pipelines across **Azure**, **AWS**, and **GCP**.
-
-I design and deploy scalable **Python-based RESTful APIs**, real-time ETL frameworks, and **LLM-integrated automation tools**. From unstructured text and financial records to industrial sensor data, I specialise in transforming complex data into clean, actionable insights that fuel dashboards, reports, and smart applications.
-
-At **10Alytics**, I lead dual-role delivery—merging engineering rigour with statistical modelling and GenAI to serve energy, finance, and BI clients across the UK and beyond.
+## 🎯 About Me
+I’m a results-oriented **Data Engineer & Data Scientist** with 5+ years’ experience building cloud-native data and ML pipelines across Azure, AWS & GCP. I thrive on turning complex datasets into clear, compelling stories that drive real-world impact—whether that’s forecasting customer lifetime value, reducing churn, or surfacing player behavior insights in subscription gaming. I design and deploy scalable Python-based APIs, real-time ETL frameworks, and LLM-driven automation tools that empower teams to make data-driven decisions.
 
 ---
 
 ## 🚀 What I Do
-
-- 🔧 **Data Engineering** – Spark + Delta Lake + Databricks pipelines for structured & semi-structured sources  
-- 🔄 **APIs & Microservices** – Containerised RESTful APIs using Python, FastAPI, and Flask  
-- 🧠 **Machine Learning & GenAI** – Feature engineering, retraining pipelines, prompt-driven anomaly detection  
-- 🧾 **Financial & BI Reporting** – Real-time Power BI dashboards and alert systems with drill-down logic  
-- 🐳 **CI/CD & Deployment** – Dockerised ML workflows with GitLab CI, Terraform, Unity Catalog for governance  
-- 📈 **Visualisation & Storytelling** – Streamlit, Plotly, and Looker dashboards for stakeholder-facing use cases
-
----
-
-## 🛠️ Tech Stack (Snapshot)
-
-| **Category**           | **Tools & Platforms**                                                                                                 |
-|------------------------|------------------------------------------------------------------------------------------------------------------------|
-| **Languages**          | Python, R, SQL, Bash, PySpark                                                                                          |
-| **Frameworks & APIs**  | Flask, FastAPI, REST, Streamlit, Microservices, OpenAPI                                                                 |
-| **ML & AI**            | scikit-learn, TensorFlow, PyTorch, GenAI, NLTK, LangChain, OpenAI, Prompt Engineering                                  |
-| **Cloud & Infra**      | Azure Databricks, ADF, Synapse, Unity Catalog, AWS Glue/Lambda/S3, GCP BigQuery                                        |
-| **Data & Orchestration** | Airflow, Delta Lake, Informatica DEI, dbt-style transformations                                                        |
-| **DevOps & CI/CD**     | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD                                                            |
-| **Visualisation & BI** | Power BI, Plotly, Matplotlib, Seaborn, SSRS, Looker                                                                    |
-| **Governance & Quality** | Great Expectations, GDPR, Audit Frameworks, Data Lineage Tools                                                        |
+- **Data Engineering & ETL**: Spark + Delta Lake + Databricks, Airflow, Feast feature stores  
+- **APIs & Microservices**: Python (FastAPI, Flask), Docker, Kubernetes  
+- **Machine Learning & GenAI**: Prophet, XGBoost, scikit-learn, LangChain, prompt engineering  
+- **BI & Reporting**: Power BI, Tableau, Streamlit, Plotly  
+- **Cloud & Infrastructure**: Azure Databricks/ML, ADF, Synapse; AWS Lambda/Glue/S3/Redshift; GCP BigQuery/Vertex AI  
+- **MLOps & CI/CD**: GitLab CI/CD, Terraform, Docker, Great Expectations  
+- **Compliance & Governance**: GDPR, audit frameworks, metadata management  
 
 ---
 
-## 🧠 Key Projects
+## 💼 Experience
 
-### 🔌 **Real-Time Stock Analytics Pipeline**  
-Spark-driven pipeline on Azure Databricks with daily data from Alpha Vantage API → Delta Lake → Power BI dashboard for financial signal tracking.
+### Data Scientist | 10Alytics (Remote, UK)  
+**Jul 2023 – Present**  
+- Built a CLV forecasting platform (Prophet + XGBoost) feeding interactive Tableau dashboards—guided £1 M budget decisions and improved revenue predictability by 15%.  
+- Developed churn-propensity & uplift models integrated into email-marketing workflows, boosting campaign ROI by 20% and reducing attrition by 12%.  
+- Engineered Apache Airflow DAGs and integrated Feast feature­store for end-to-end feature pipelines—cut lead time by 30%.  
+- Designed self-service Tableau dashboards visualizing KPI trends and A/B test results, enabling product managers to iterate in real time.  
+- Led causal-inference analyses on A/B experiments, driving a 10% lift in user engagement.
 
-### 🧾 **Credit Scoring Workflow**  
-Containerised ETL using Docker + FastAPI to process account-level scoring data → AWS S3. Automated testing and logging pipeline for QA transparency.
+### Data Quality Analyst | Nigeria LNG Limited  
+**Apr 2018 – Jun 2022**  
+- Led data-validation strategy for pipelines between Oracle ERP & SQL Server, achieving 100% external-audit compliance.  
+- Built Informatica DEI workflows for cleansing and schema harmonization—reduced ETL errors by 50%.  
+- Delivered SSRS dashboards for procurement & finance monitoring, supporting real-time decisions.  
+- Integrated Azure Monitor and custom validation scripts to detect pipeline failures—reduced disruptions by 95%.  
+- Implemented metadata governance, enhancing data-lineage transparency and audit-readiness.
 
-### 🧮 **Bank Transaction Warehouse**  
-Designed PostgreSQL warehouse with custom ETL for transactional and loan analytics. Supported multi-channel data ingestion from legacy systems.
-
-### 🎬 **Sentiment-as-a-Service for Movie Reviews**  
-Ingested reviews from public APIs → analysed sentiment using PySpark + NLTK → exposed via Dockerised FastAPI microservice and live Streamlit dashboard.
-
-### 🏪 **Scalable Retail API Pipeline**  
-Azure Blob + ADF + Airflow orchestration to stage retail sales data from REST API endpoints. Enabled ad hoc analytics via Databricks notebooks.
+### Data Engineer | Permel Nigeria Limited  
+**Mar 2014 – Apr 2018**  
+- Replaced legacy ETL with Python & Airflow workflows—cut operating costs by 20%.  
+- Migrated data jobs to AWS Lambda, reducing processing cost by 15% and improving traceability.  
+- Developed serverless data processing jobs in Lambda, boosting throughput and scalability.  
+- Designed logical data models to support strategic reporting and cross-department analytics.  
+- Enforced data-privacy standards aligned with GDPR-like regulations.
 
 ---
 
 ## 🎓 Education & Certifications
 
-🎓 MSc, Data Science & Computational Intelligence – Coventry University, UK  
-🎓 BEng, Computer Engineering – Kuban State Technological University, Russia  
+**MSc, Data Science & Computational Intelligence**  
+Coventry University, UK | May 2022 – Jul 2023  
 
-**Certifications:**  
-✅ AWS Solutions Architect Associate  
-✅ AWS Cloud Practitioner  
-✅ Azure Fundamentals  
-📝 AWS Data Engineer Associate *(Booked)*  
+**BEng, Computer Engineering**  
+Kuban State Technological University, Russia | Sep 2007 – Jun 2012  
+
+**Certifications**  
+- AWS Data Engineer Associate (exam booked)  
+- AWS Solutions Architect Associate  
+- AWS Cloud Practitioner  
+- Microsoft Azure Fundamentals  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔌 Real-Time Stock Analytics Pipeline  
+📊 **Tech:** Azure Databricks, Spark, Delta Lake, Python, Power BI  
+Built a fully automated pipeline ingesting daily market data from Alpha Vantage → Delta Lake. Engineered Spark jobs on Databricks to compute trading signals and serve them through a live Power BI dashboard for intra-day decision support.  
+
+🔗 [Repo](https://github.com/martinktay/real-time-stock-analytics) • [Live demo](#)
+
+---
+
+### 🧮 CLV Forecasting Platform  
+📈 **Tech:** Python, Prophet, XGBoost, Tableau, Docker  
+Developed a customer-lifetime-value model combining Prophet time-series forecasts with XGBoost uplift features. Containerised the service with Docker and embedded interactive Tableau dashboards to guide £1 M+ budget allocations, boosting forecast accuracy by 15%.  
+
+🔗 [Repo](https://github.com/martinktay/clv-forecasting-platform)
+
+---
+
+### 🔄 Churn & Uplift Modeling Suite  
+✉️ **Tech:** Python, scikit-learn, Flask, FastAPI, Feast, Airflow  
+Created end-to-end churn-propensity and uplift pipelines:  
+1. **Feature store** (Feast) + Airflow DAGs for automated data prep  
+2. **Model API** (FastAPI) powering marketing workflows  
+Delivered a 20% uplift in campaign ROI and cut attrition by 12%.  
+
+🔗 [Repo](https://github.com/martinktay/churn-uplift-suite)
+
+---
+
+### 🎮 PS5 Player Behavior Analytics  
+🕹️ **Tech:** PySpark, GCP BigQuery, Streamlit, Plotly  
+Processed subscription telemetry to identify play-pattern clusters and session drop-off triggers. Built a Streamlit app with drill-down Plotly charts to inform content personalization and retention strategies.  
+
+🔗 [Repo](https://github.com/martinktay/ps5-behavior-analytics)
+
+---
+
+### 🌬️ Wind Energy Power Predictor  
+⚡ **Tech:** Flask, XGBoost, Airflow, PostgreSQL  
+Engineered a time-series pipeline (78K+ records) to forecast hourly power output (R²=0.843, MAPE=4.14%). Packaged the model in a Flask API and scheduled retraining via Airflow, enabling real-time grid-load decisioning.  
+
+🔗 [Repo](https://github.com/martinktay/wind-energy-predictor)
 
 ---
 
 ## 🤝 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/martin-k-tay/)  
-- 📬 [Email](mailto:martin.k.tay@hotmail.com)  
-- 🌐 [Portfolio](https://github.com/martinktay)
-
-> Always open to collaboration in platform automation, AI-powered reporting, or GenAI deployments for data-first businesses.
-
----
-
-⭐ **Quick Wins:**  
-Delivered over **£250,000 in annual savings** via automation and platform migration. Deployed REST-based ML workflows and GenAI validators that reduced analysis prep time by over **30%**.
+Always open to collaborations in platform automation, AI-powered reporting, or GenAI deployments for data-first businesses. Feel free to reach out!
