@@ -21,34 +21,6 @@ I’m a results-oriented **Data Engineer & Data Scientist** with 5+ years’ exp
 
 ---
 
-## 💼 Experience
-
-### Data Scientist | 10Alytics (Remote, UK)  
-**Jul 2023 – Present**  
-- Built a CLV forecasting platform (Prophet + XGBoost) feeding interactive Tableau dashboards—guided £1 M budget decisions and improved revenue predictability by 15%.  
-- Developed churn-propensity & uplift models integrated into email-marketing workflows, boosting campaign ROI by 20% and reducing attrition by 12%.  
-- Engineered Apache Airflow DAGs and integrated Feast feature­store for end-to-end feature pipelines—cut lead time by 30%.  
-- Designed self-service Tableau dashboards visualizing KPI trends and A/B test results, enabling product managers to iterate in real time.  
-- Led causal-inference analyses on A/B experiments, driving a 10% lift in user engagement.
-
-### Data Quality Analyst | Nigeria LNG Limited  
-**Apr 2018 – Jun 2022**  
-- Led data-validation strategy for pipelines between Oracle ERP & SQL Server, achieving 100% external-audit compliance.  
-- Built Informatica DEI workflows for cleansing and schema harmonization—reduced ETL errors by 50%.  
-- Delivered SSRS dashboards for procurement & finance monitoring, supporting real-time decisions.  
-- Integrated Azure Monitor and custom validation scripts to detect pipeline failures—reduced disruptions by 95%.  
-- Implemented metadata governance, enhancing data-lineage transparency and audit-readiness.
-
-### Data Engineer | Permel Nigeria Limited  
-**Mar 2014 – Apr 2018**  
-- Replaced legacy ETL with Python & Airflow workflows—cut operating costs by 20%.  
-- Migrated data jobs to AWS Lambda, reducing processing cost by 15% and improving traceability.  
-- Developed serverless data processing jobs in Lambda, boosting throughput and scalability.  
-- Designed logical data models to support strategic reporting and cross-department analytics.  
-- Enforced data-privacy standards aligned with GDPR-like regulations.
-
----
-
 ## 🎓 Education & Certifications
 
 **MSc, Data Science & Computational Intelligence**  
